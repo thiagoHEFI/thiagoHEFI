@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+oi, sou thiago aluno da colégio Estadual Padre Claudio
 <!--
 **thiagoHEFI/thiagoHEFI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
