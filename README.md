@@ -1,7 +1,5 @@
-## Hi there 👋
-oi, sou thiago aluno da colégio Estadual Padre Claudio
-<!--
-**thiagoHEFI/thiagoHEFI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## oi, sou Thiago aluno da colégio Estadual Padre Claudio morelli
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![](https://media.tenor.com/xu0vB1rqswwAAAAi/free-fire.gif)
